@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iZub1n/Space-Gram/static/css/main.becc0472.css",
-    "main.js": "/iZub1n/Space-Gram/static/js/main.dadb3b45.js",
-    "static/js/787.ce7f1b9a.chunk.js": "/iZub1n/Space-Gram/static/js/787.ce7f1b9a.chunk.js",
-    "static/media/heart.png": "/iZub1n/Space-Gram/static/media/heart.7715b2e81f483c1828fa.png",
-    "index.html": "/iZub1n/Space-Gram/index.html",
-    "main.becc0472.css.map": "/iZub1n/Space-Gram/static/css/main.becc0472.css.map",
-    "main.dadb3b45.js.map": "/iZub1n/Space-Gram/static/js/main.dadb3b45.js.map",
-    "787.ce7f1b9a.chunk.js.map": "/iZub1n/Space-Gram/static/js/787.ce7f1b9a.chunk.js.map"
+    "main.css": "/Space-Gram/static/css/main.becc0472.css",
+    "main.js": "/Space-Gram/static/js/main.6bf15e10.js",
+    "static/js/787.ce7f1b9a.chunk.js": "/Space-Gram/static/js/787.ce7f1b9a.chunk.js",
+    "static/media/heart.png": "/Space-Gram/static/media/heart.7715b2e81f483c1828fa.png",
+    "index.html": "/Space-Gram/index.html",
+    "main.becc0472.css.map": "/Space-Gram/static/css/main.becc0472.css.map",
+    "main.6bf15e10.js.map": "/Space-Gram/static/js/main.6bf15e10.js.map",
+    "787.ce7f1b9a.chunk.js.map": "/Space-Gram/static/js/787.ce7f1b9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.becc0472.css",
-    "static/js/main.dadb3b45.js"
+    "static/js/main.6bf15e10.js"
   ]
 }
