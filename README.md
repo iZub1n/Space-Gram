@@ -6,7 +6,7 @@
 0. Prerequisites: Node.js
 1. Clone the repo
 2. run 'npm install' in terminal
-3. run 'npm run' or 'npm run build'
+3. run 'npm run' 
 
 ## Available Scripts
 
