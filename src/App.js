@@ -11,7 +11,7 @@ let name = "Space Gram ⭐️🔭"
 const antIcon = <LoadingOutlined style={{ textAlign: 'center', fontSize: 200 }} spin />;
 
 
-const url = 'https://api.nasa.gov/planetary/apod?start_date=2021-12-31&api_key=aBoeJ19KQJRiiEk7AU4AakcNHKEYlvTzuy8kU3XO'
+const url = 'https://api.nasa.gov/planetary/apod?start_date=2021-12-31&thumbs=True&api_key=aBoeJ19KQJRiiEk7AU4AakcNHKEYlvTzuy8kU3XO'
 
 function onChange(pageNumber) {
   console.log('Page: ', pageNumber);

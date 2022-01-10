@@ -8,7 +8,7 @@ import {
 
 import Heart from './heart.png'
 
-const Photo = ({ url, title, date, explanation, copyright}) => {
+const Photo = ({ url, thumbnail_url, title, date, explanation, copyright}) => {
 
   const [isLiked, setIsLiked] = useState(false)
   const [isDisliked, setIsDisliked] = useState(false)
@@ -36,7 +36,7 @@ const Photo = ({ url, title, date, explanation, copyright}) => {
 
   return (
     <article className='DisplayPallete'>
-      <img className='image' src={url} alt={{title}|| 'Title'} />
+      <img className='image' src={thumbnail_url || url} alt={{title}|| 'Title'} />
       <h4>{title}</h4>
       <p className='lessImpText' >{date} {isLiked}</p>
       {showReaction?(
@@ -70,6 +70,7 @@ const Photo = ({ url, title, date, explanation, copyright}) => {
 
 Photo.propTypes = {
   url: PropTypes.string.isRequired,
+  thumbnail_url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
   explanation: PropTypes.string,
