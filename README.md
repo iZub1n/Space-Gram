@@ -6,8 +6,8 @@ Live Demo: https://izub1n.github.io/Space-Gram/
 ## How To Run
 0. Prerequisites: Node.js
 1. Clone the repo
-2. run 'npm install' in terminal
-3. run 'npm run' 
+2. run  `npm install` in terminal
+3. run `npm run`
 
 ## Available Scripts
 
