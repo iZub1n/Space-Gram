@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Space-Gram/static/css/main.7dfe1887.css",
-    "main.js": "/Space-Gram/static/js/main.91c36626.js",
+    "main.js": "/Space-Gram/static/js/main.64383952.js",
     "static/js/787.ce7f1b9a.chunk.js": "/Space-Gram/static/js/787.ce7f1b9a.chunk.js",
     "static/media/heart.png": "/Space-Gram/static/media/heart.7715b2e81f483c1828fa.png",
     "index.html": "/Space-Gram/index.html",
     "main.7dfe1887.css.map": "/Space-Gram/static/css/main.7dfe1887.css.map",
-    "main.91c36626.js.map": "/Space-Gram/static/js/main.91c36626.js.map",
+    "main.64383952.js.map": "/Space-Gram/static/js/main.64383952.js.map",
     "787.ce7f1b9a.chunk.js.map": "/Space-Gram/static/js/787.ce7f1b9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dfe1887.css",
-    "static/js/main.91c36626.js"
+    "static/js/main.64383952.js"
   ]
 }
